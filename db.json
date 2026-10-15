@@ -1,0 +1,10 @@
+{
+  "movies": [
+    {
+      "title": "Человек-паук: Через вселенные",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzys4n5ozGCdSeQPw8RqXsDrXrt21k5htaZymoPDQa7A&s",
+      "id": "1"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
